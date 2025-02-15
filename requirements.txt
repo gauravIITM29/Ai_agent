@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+requests
+pillow
+numpy
+scikit-learn
+db-sqlite3
+prettier
+Faker
+pandas
+gitpython
+python-multipart
+aiohttp
+markdown
+python-magic
+beautifulsoup4
+python-dateutil
